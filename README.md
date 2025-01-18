@@ -55,3 +55,4 @@ Günümüzde veri, hem akademik çalışmalarda hem de endüstriyel uygulamalard
 
 Veri ön işleme, herhangi bir veri analizi veya modelleme projesinde önemli bir yer tutar. Bu adımı atlamadan veya dikkatsizce geçerek başlanan projelerde elde edilen sonuçlar, hem yanlış hem de yetersiz olabilir. Veriyle çalışırken gizlilik, düzgün belgeleme ve etik kurallarına uymak, sadece teknik başarıyı değil, aynı zamanda toplumsal sorumluluğu da beraberinde getirir. Doğru bir veri işleme süreciyle, hem daha güvenilir modeller hem de daha iyi öngörüler elde edilebilir.
 
+![download](https://github.com/user-attachments/assets/d85d3107-18c1-43ac-810f-7a8ec3c032f5)
